@@ -8,7 +8,7 @@
 PRODUCT_NAME = final_project
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.finalProject
+PRODUCT_BUNDLE_IDENTIFIER = com.example.loglife
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.

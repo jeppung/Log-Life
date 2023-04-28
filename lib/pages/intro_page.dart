@@ -30,7 +30,10 @@ class _IntroPageState extends State<IntroPage> {
               ? Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Image.asset('images/boy-with-phone.png'),
+                    Image.asset(
+                      'images/boy-with-phone.png',
+                      width: 50,
+                    ),
                     const SizedBox(width: 20),
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,

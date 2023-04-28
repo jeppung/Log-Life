@@ -1,4 +1,4 @@
-package com.example.final_project
+package com.example.loglife
 
 import io.flutter.embedding.android.FlutterActivity
 
